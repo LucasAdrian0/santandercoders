@@ -7,3 +7,4 @@ Changes: mudanças
 #git commit: salva as modificações , faz um versionamento.
 #git log: apresenta os históriocos de versionamento de um arquivo.
 #git restore --staged: volta de staged para change, identifica "--staged" no comando para saber em qual estado esta o arquivo.
+#git push:
