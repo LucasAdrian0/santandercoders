@@ -9,4 +9,4 @@ Changes: mudanças
 #git log: apresenta os históriocos de versionamento de um arquivo.
 #git restore --staged: volta de staged para change, identifica "--staged" no comando para saber em qual estado esta o arquivo.
 #git push: envia para o github.
-#git pull: pega do github e atualiza a versão no desck top.
+#git pull: pega do github e atualiza a versão no descktop.
