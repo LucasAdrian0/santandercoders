@@ -10,3 +10,4 @@ Changes: mudanças
 #git restore --staged: volta de staged para change, identifica "--staged" no comando para saber em qual estado esta o arquivo.
 #git push: envia para o github.
 #git pull: pega do github e atualiza a versão no descktop.
+#git fetch: verifica la no repositório remoto tudo oque não tem no repositório local e apresenta.
