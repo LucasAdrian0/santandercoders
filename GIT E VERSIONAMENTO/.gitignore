@@ -1,4 +1,5 @@
 git rm --cached 'html aulas adatech santander coders2024.docx'
-html aulas adatech santander coders2024.docx
+.html aulas adatech santander coders2024.docx
 *.docx
+/*.docx
 
